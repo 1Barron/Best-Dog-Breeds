@@ -12,7 +12,8 @@
 
 <h1>#3 German Sheperd</h1>
 <img src="https://live.staticflickr.com/5002/5342999909_08bf116a73.jpg" width="350"> <br>
-<p1>text</p1>
+<p>German Shepherds are one of the most popular dog breeds to current day. They have double layer coats, which means they will live comfortably in any type of weather/season. They also live for about 9-13 years. In addition, German Shepherds reported to be the 3rd smartest dog species in the world, ensuring they will learn tricks quick and efficiently. Shepherds are active dogs, meaning they are always ready to play or work out with their owners. </p>
 <hr>
-<p1>If you want to adopt any of these dogs click on their name!</p1>
-<p2>Pembroke Welshire Corgi, Siberian Husky, or German Shepherd</p2>
+<p>If you want to adopt any of these dogs click on their name!
+<a href="https://www.pwccsc.com/corgi-rescue/">Pembroke Welshire Corgi</a>, <a href="https://www.huskyhouse.org/adopt/">Siberian Husky</a>, or 
+<a href="https://www.gsroc.org/">German Shepherd</a>
